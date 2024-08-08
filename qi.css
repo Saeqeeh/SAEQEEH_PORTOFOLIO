@@ -5,5 +5,5 @@ jumbotron {
         url(./../assets/img/background.png);
     background-size: cover;
     background-position: center;
-    color: rgb(211, 0, 0);
+    color: white;
 }
